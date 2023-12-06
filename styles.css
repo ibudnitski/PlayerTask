@@ -21,6 +21,10 @@ h1 {
     display: inline;
 }
 
+span {
+    margin-top: 20px;
+}
+
 img {
     display: inline;
     margin-right: 20px;

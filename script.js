@@ -4,7 +4,7 @@ let playList = {
     coverImg: './assets/playlistimage.jpg',
     info: {
         totalTrackCount: 3,
-        totalTracksDurationInSeconds: 377,
+        totalTracksDurationInSeconds: 926,
     },
     tracks: [
         {
