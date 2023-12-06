@@ -31,7 +31,7 @@ let playList = {
     ]
 }
 
-renderPlaylist(playList);
+
 
 function renderPlaylist(playListForRendering){
     /* Creating Heading, main image, and information about playlist (track count and tracks duration)*/
@@ -105,7 +105,7 @@ document.body.append(mainLi);
 
 }
 
-
+renderPlaylist(playList);
 
 
 
