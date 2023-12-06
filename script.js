@@ -31,8 +31,6 @@ let playList = {
     ]
 }
 
-
-
 function renderPlaylist(playListForRendering){
     /* Creating Heading, main image, and information about playlist (track count and tracks duration)*/
 const playListTitle = document.createElement('h1');
