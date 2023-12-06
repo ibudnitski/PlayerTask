@@ -27,7 +27,7 @@ let playList = {
             fileUrl: './assets/Metallica - The Unforgiven.mp3',
             isHot: true,
             artistImage: "./assets/img3.svg",
-        }
+        },
     ]
 }
 
